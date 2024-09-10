@@ -1,0 +1,2 @@
+# simplescript
+simple python script
